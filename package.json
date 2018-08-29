@@ -1,7 +1,7 @@
 {
   "name": "first_npm",
   "version": "1.0.0",
-  "description": "first demo npm",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/shiqiangguo/node.npm-first-npm.git"
   },
-  "keywords": [
-    "first-npm"
-  ],
   "author": "sqgme <sqgme@126.com>",
   "license": "MIT",
   "bugs": {
